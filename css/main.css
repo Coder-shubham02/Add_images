@@ -1,0 +1,13 @@
+body{
+background:linear-gradient(125deg,rgb(118, 236, 230),rgb(254, 116, 233),rgb(235, 182, 108));
+background-repeat:no-repeat;
+background-size: cover;
+}
+#login-button{
+background:linear-gradient(to right,rgb(76, 240, 237),rgb(217, 51, 192));
+border:none;
+}
+#opc{
+background:rgb(234, 231, 231,0.5);
+border-radius:25px;
+}
